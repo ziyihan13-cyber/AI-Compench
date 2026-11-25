@@ -1,0 +1,8 @@
+{
+  "name": "compbench-fetch",
+  "private": true,
+  "description": "CompBench 本机 Playwright 抓取辅助",
+  "dependencies": {
+    "playwright": "^1.49.1"
+  }
+}
